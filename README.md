@@ -31,7 +31,7 @@ myscript-text-web is a web component that can be used in every web application (
 
 ## Installation
 
-**Bower**: `bower install myscript`
+**Bower**: `bower install myscript-text-web`
 
 ## Start using myscript-text-web
 
