@@ -8,7 +8,7 @@ The easy way to integrate text handwriting recognition in your web app.
 ```html
 <html>
 <head>
-     <script src="bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+    <script src="bower_components/webcomponentsjs/webcomponents-lite.js"></script>
     <link rel="import" href="bower_components/myscript-text-web.html">
 </head>
 <body>
